@@ -1,0 +1,25 @@
+/*
+@media (max-width: 1200px){
+    article {
+        max-width: 1000px;
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+}
+
+@media (max-width: 750px) {
+    article {
+        max-width: 700px;
+        margin-right: 40px;
+        margin-left: 40px;
+    }
+}
+
+@media (max-width: 510px) {
+    article {
+        max-width: 450px;
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+}
+*/
